@@ -56,7 +56,7 @@ I'm a passionate **Full-Stack Developer** with a focus on **React** and **Node.j
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddr-dileep&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddr-dileep&layout=compact&theme=radical)
 
