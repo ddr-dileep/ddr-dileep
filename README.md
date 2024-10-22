@@ -62,4 +62,4 @@ I'm a passionate **Full-Stack Developer** with a focus on **React** and **Node.j
 
 ---
 
-Thanks for visiting! Feel free to check out my repositories and reach out for collaboration!
+Thanks for visiting! Feel free to check out my repositories!
