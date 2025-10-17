@@ -1,111 +1,86 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Dileep Raloti</h1>
-<h3 align="center">Full-Stack Developer | React | Node.js | TypeScript | MongoDB</h3>
-
-<p align="center">
-  <a href="mailto:ddr.dileepraloti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ddr.dileepraloti%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ddr-dileep">
-    <img src="https://img.shields.io/github/followers/ddr-dileep?label=Follow&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ddr-dileep&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a passionate **Full-Stack Developer** with expertise in **React**, **Node.js**, and **TypeScript**.  
-I specialize in building scalable web apps, creating optimized UI/UX experiences, and designing modular frontends with modern JavaScript frameworks.
-
-- 🔭 Currently working on: **HMS App (Hospital Management System)** built with React + Node.js + MongoDB  
-- 🚀 Building my own React component library: **Next-Gen-UI**  
-- 🌱 Learning: **AWS**, **Next.js**, and **Advanced Cloud Deployment**  
-- 💬 Ask me about: **React**, **Node.js**, **Tailwind CSS**, and **Full-Stack Architecture**  
-- ⚡ Focused on: Crafting clean design systems and robust backend APIs  
-- 📫 Reach me at: [ddr.dileepraloti@gmail.com](mailto:ddr.dileepraloti@gmail.com)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🛠️ Tech Stack
+# 👋 Hi there! I'm **Dileep Raloti**
 
-| **Frontend** | **Backend** | **Database** | **Tools & DevOps** |
-|---------------|-------------|---------------|--------------------|
-| React, Next.js, Redux, Tailwind CSS, MUI, Styled Components | Node.js, Express.js, NestJS | MongoDB, Mongoose | Git, GitHub, Postman, VS Code, Vercel, AWS |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
+I'm a passionate **Full-Stack Developer** with a focus on **React** and **Node.js**.  
+I love building modern web applications, crafting clean and intuitive UI/UX, and working on scalable backend systems.  
+I primarily code in **JavaScript** and **TypeScript**, and I’m always exploring new technologies to refine my craft.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack & Tools
 
-> Key full-stack and UI projects demonstrating technical expertise.  
-> *(Auto-updated pinned repositories display your latest work.)*
+### **Frontend**
+- React.js  
+- Next.js  
+- Redux  
+- Tailwind CSS  
+- Styled Components  
+- Material-UI  
 
-<p align="center">
-  <a href="https://github.com/ddr-dileep/hms-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=hms-app&theme=radical" />
-  </a>
-  <a href="https://github.com/ddr-dileep/next-gen-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=next-gen-ui&theme=radical" />
-  </a>
-</p>
+### **Backend**
+- Node.js  
+- Express.js  
+- NestJS  
+- MongoDB  
+- REST APIs  
 
-<p align="center">
-  <a href="https://github.com/ddr-dileep/expense-tracker-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=expense-tracker-dashboard&theme=radical" />
-  </a>
-  <a href="https://github.com/ddr-dileep/hrms-saas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=hrms-saas&theme=radical" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddr-dileep&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddr-dileep&layout=compact&theme=radical&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddr-dileep&theme=radical&hide_border=true" />
-</p>
+### **Other Skills**
+- Git & GitHub  
+- TypeScript  
+- JavaScript (ES6+)  
+- Agile Methodologies  
 
 ---
 
-## 🧩 Auto-Updating Sections (Dynamic Projects)
+## 🚀 About Me
 
-You can make your README auto-update daily using **GitHub Actions**.  
-Create a file in your repo: `.github/workflows/update-readme.yml`
+- 🔭 Currently working on **[HMS](https://github.com/ddr-dileep/hms-app)** — a full-stack web app using React and Node.js.  
+- 🌱 Currently learning **AWS**.  
+- 💬 Ask me about **React**, **Node.js**, and **JavaScript**.  
+- 📫 Reach me at **[ddr.dileepraloti@gmail.com](mailto:ddr.dileepraloti@gmail.com)**.  
 
-```yaml
-name: Update README
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs every midnight UTC
-  workflow_dispatch:
+## 📈 GitHub Stats
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        with:
-          COMMIT_MSG: "Update README with latest activity"
+![Dileep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddr-dileep&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddr-dileep&layout=compact&theme=radical)
+
+---
+
+## 💼 Projects
+
+Here are some of my key repositories and ongoing projects:
+
+- 🏥 **[HMS App](https://github.com/ddr-dileep/hms-app)** — Hospital Management System (MERN Stack)  
+- 🧩 **[Next-Gen-UI](https://github.com/ddr-dileep/next-gen-ui)** — A lightweight React UI library built with TypeScript  
+- 💰 **[Expense Tracker Dashboard](https://github.com/ddr-dileep/expense-tracker-dashboard)** — Modern dashboard with expense, investment, and graph modules  
+- 👨‍💼 **[HRMS SaaS](https://github.com/ddr-dileep/hrms-saas)** — SaaS-based HRMS system with multiple admin roles and modules  
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 **Email:** [ddr.dileepraloti@gmail.com](mailto:ddr.dileepraloti@gmail.com)  
+- 💼 **LinkedIn:** [Dileep Raloti](https://www.linkedin.com/in/dileep-raloti/)  
+- 💻 **GitHub:** [ddr-dileep](https://github.com/ddr-dileep)
+
+---
+
+> _“Code with logic, design with empathy, and build for impact.”_
