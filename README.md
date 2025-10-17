@@ -1,65 +1,111 @@
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hi, I'm Dileep Raloti</h1>
+<h3 align="center">Full-Stack Developer | React | Node.js | TypeScript | MongoDB</h3>
 
-<!--
-## Hi there 👋
-**ddr-dileep/ddr-dileep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! 👋 I'm Dileep Raloti
-
-I'm a passionate **Full-Stack Developer** with a focus on **React** and **Node.js**. I love building web applications, crafting clean UI/UX, and working on exciting backend systems. I enjoy working in JavaScript/TypeScript, and I am constantly learning new technologies to improve my skill set.
+<p align="center">
+  <a href="mailto:ddr.dileepraloti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ddr.dileepraloti%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ddr-dileep">
+    <img src="https://img.shields.io/github/followers/ddr-dileep?label=Follow&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ddr-dileep&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
+</p>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🧠 About Me
 
-### Frontend:
-- **React.js**, **Next.js**, **Redux**, **Tailwind CSS**, **Styled Components**, **Material-UI**,
+I'm a passionate **Full-Stack Developer** with expertise in **React**, **Node.js**, and **TypeScript**.  
+I specialize in building scalable web apps, creating optimized UI/UX experiences, and designing modular frontends with modern JavaScript frameworks.
 
-### Backend:
-- **Node.js**, **Express.js**, **NestJS**, **MongoDB**, **REST APIs**,
-
-### Other Skills:
-- **Git**, **TypeScript**, **JavaScript (ES6+)**, **Agile Methodologies**,
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on **[HMS](link_to_project)**, a full-stack web app using React and Node.js.
-- 🌱 I’m currently learning **AWS**
-- 💬 Ask me about **React**, **Node.js**, and **JavaScript**.
-- 📫 How to reach me: **[ddr.dileepraloti@gmail.com](mailto:ddr.dileepraloti@gmail.com)**
+- 🔭 Currently working on: **HMS App (Hospital Management System)** built with React + Node.js + MongoDB  
+- 🚀 Building my own React component library: **Next-Gen-UI**  
+- 🌱 Learning: **AWS**, **Next.js**, and **Advanced Cloud Deployment**  
+- 💬 Ask me about: **React**, **Node.js**, **Tailwind CSS**, and **Full-Stack Architecture**  
+- ⚡ Focused on: Crafting clean design systems and robust backend APIs  
+- 📫 Reach me at: [ddr.dileepraloti@gmail.com](mailto:ddr.dileepraloti@gmail.com)
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddr-dileep&show_icons=true&theme=radical)
+| **Frontend** | **Backend** | **Database** | **Tools & DevOps** |
+|---------------|-------------|---------------|--------------------|
+| React, Next.js, Redux, Tailwind CSS, MUI, Styled Components | Node.js, Express.js, NestJS | MongoDB, Mongoose | Git, GitHub, Postman, VS Code, Vercel, AWS |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddr-dileep&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
-Thanks for visiting! Feel free to check out my repositories!
+## 🚀 Featured Projects
+
+> Key full-stack and UI projects demonstrating technical expertise.  
+> *(Auto-updated pinned repositories display your latest work.)*
+
+<p align="center">
+  <a href="https://github.com/ddr-dileep/hms-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=hms-app&theme=radical" />
+  </a>
+  <a href="https://github.com/ddr-dileep/next-gen-ui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=next-gen-ui&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ddr-dileep/expense-tracker-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=expense-tracker-dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/ddr-dileep/hrms-saas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ddr-dileep&repo=hrms-saas&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddr-dileep&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddr-dileep&layout=compact&theme=radical&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddr-dileep&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Auto-Updating Sections (Dynamic Projects)
+
+You can make your README auto-update daily using **GitHub Actions**.  
+Create a file in your repo: `.github/workflows/update-readme.yml`
+
+```yaml
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "Update README with latest activity"
