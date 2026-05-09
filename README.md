@@ -79,8 +79,4 @@ I am a Senior Full-Stack Developer specializing in the MERN ecosystem. I build h
 
 <br/>
 
-<div align="center">
 
-> _"Code with logic, design with empathy, and build for impact."_
-
-</div>
